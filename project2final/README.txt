@@ -1,0 +1,1 @@
+In order to have this application run properly on your machine you should chance the 'base_url' in the config file as well as the 'upload_path' variable located in the AppController.php in the application/core folder.  Import the databae with the 'final.sql' file and have at 'er.

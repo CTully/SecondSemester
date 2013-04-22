@@ -1,0 +1,26 @@
+body{
+	background: url(img/bg.png) no-repeat center top fixed;
+	background-attachment: fixed;
+}
+
+#main{
+	max-width: 960px;
+	margin: 0 auto;
+	background-color: #fff;
+}
+
+#content{
+	margin: 15px 0;
+	min-height: 800px;
+}
+
+.info{
+	font-size: 18px;
+}
+
+.validation-error{
+	background-color: #ff0000;
+	color: #fff;
+	margin: 0;
+	padding: 2px;
+}
